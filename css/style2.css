@@ -1,0 +1,18 @@
+.post-archive ul {
+    padding-left: 25px;
+}
+
+.post-archive .meta-date {
+    font-weight: 350;
+    color: #656262;
+    font-size: 90%;
+}
+
+.post-archive ul.listing li {
+    line-height: 175%;
+}
+
+.post-archive ul.listing li .archive-title {
+    font-weight: 450;
+    font-size: 105%;
+}
